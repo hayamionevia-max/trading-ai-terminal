@@ -1,0 +1,4 @@
+STATE=DISCUSSING
+PHASE=CODEX_REVIEW
+APPROVED_BY=Antigravity
+NOTE=Pythonの通信ブロック問題に対するcurl.exeプロキシ化の方針を提案中。Codexとの議論を求めます。

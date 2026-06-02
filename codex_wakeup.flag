@@ -1,0 +1,4 @@
+MODE=DISCUSS
+PHASE=CODEX_REVIEW
+REASON=PythonのWinError 10013エラーを回避するためのcurl.exeプロキシ化の提案。
+NOTE=Codexは勝手に追加修正せず、まず提案された方針のメリット・デメリット・実装の懸念点について bridge_chat.txt で議論すること。
